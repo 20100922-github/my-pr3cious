@@ -1,0 +1,8 @@
+my-pr3cious
+===========
+
+cross-plattform/-devise/-browser online and secure password manager ... ok ok, secure as secure can be for a web application ;-)
+
+Right now (2012-05-20), this project is nothing more than an idea and I am first of all starting to collect requirements (see 'issue' menu of this repository).
+
+And yes - very important - the name of this project is derived from Gollum's sentence "my precious" ;-)
