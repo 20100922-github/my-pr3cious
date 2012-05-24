@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Username:</b>
+  <%= @element.username %>
+</p>
+
+<p>
+  <b>Password:</b>
+  <%= @element.password %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @element.url %>
+</p>
+
+
+<%= link_to 'Edit', edit_element_path(@element) %> |
+<%= link_to 'Back', elements_path %>
