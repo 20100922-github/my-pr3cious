@@ -1,4 +1,6 @@
 MyPr3cious::Application.routes.draw do
+  devise_for :users
+
   resources :elements
 
   # The priority is based upon order of creation:

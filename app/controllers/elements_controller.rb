@@ -1,4 +1,7 @@
 class ElementsController < ApplicationController
+  
+  before_filter :authenticate_user!
+  
   # GET /elements
   # GET /elements.json
   def index
